@@ -1,9 +1,7 @@
 # online-exam-management-system
 
-In this project, We have designed a database that will keep a record of students, their subjects and the online exam they give. This project has been developed using MySQL software and Python Programming language. The required Database is python_project and has three Tables that are ‘exam’,'marks’,'Instructor','Student and ‘subject’. These are the five entities in this Database. In this project I have created multiple Python based modules and function binding MySQL to work on the required database. 
-
-In login module we have used twilio library for the otp function. You have to create twilio account, then you will get free trail Api. you have to replace the api with your own api in the code. Three types of users can login in to this system. Admin, Teacher and Student. Every user will have access to certain features based on their designation.
 
 
+This project encompasses a database designed to store records of students, their subjects, and the online exams they undertake. It's built using MySQL software and Python programming language. The primary database, named python_project, comprises five entities: exam, marks, Instructor, Student, and subject, each representing different aspects of the educational system.
 
-
+Within the login module, we've integrated the Twilio library for the OTP functionality. Users need to create a Twilio account to obtain a free trial API, which must be substituted in the code. The system accommodates three types of users: Admin, Teacher, and Student. Each user is granted access to specific features based on their role within the system.
